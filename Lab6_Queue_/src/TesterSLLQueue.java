@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Tester {
+public class TesterSLLQueue {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
